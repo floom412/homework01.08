@@ -1,6 +1,6 @@
 console.log("мій сайт");
 var a = 5;
-console.log(a * 9);
+console.log(a * 8);
 function smartConvert(uahAmount) {
     var curseUsd = 41.5;
     var curseEur = 48.7;
